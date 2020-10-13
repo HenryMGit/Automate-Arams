@@ -1,1 +1,6 @@
 frozen_east_text_detection.pb
+inv.png
+championSelected.png
+cropped.png
+__pycache__/champ_detection.cpython-38.pyc
+geckodriver.log

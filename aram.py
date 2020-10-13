@@ -7,8 +7,8 @@ from champ_detection import DetectChamp
 
 
 def takeScreenshot():
-    #waits  5 seconds so you can navigate to the LoL client 
-    time.sleep(5)
+    #waits 2 seconds so you can navigate to the LoL client 
+    time.sleep(2)
 
     #Screenshot the Lol Cleints and grabs the image
     pyautogui.hotkey('alt','prtscr')
