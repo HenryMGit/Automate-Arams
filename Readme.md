@@ -1,7 +1,7 @@
 # Overview
 This is a python script that is use to automate the selection process for the game mode Aram in the game called League of Legends. It is a script that looks up the champion that is given to you
 in Arams and automatically sets up the right runes and opens up a webpage for suggestion of items
-to build. This script uses many modules in computer vision such as text detection and text recognition alongside computer/broswer automation library to make this work. 
+to build. This script uses many modules in computer vision such as text detection and text recognition alongside computer/broswer automation libraries to make this work. 
 
 
 
